@@ -20,7 +20,7 @@ Estoy explorando el mundo del **diseño** y perfeccionando mis habilidades en **
 Actualmente estoy aprendiendo **HTML, CSS, JavaScript y React**, mientras diseño proyectos interactivos y responsivos. 
 
 Conéctate conmigo:  
-[Linkedin](www.linkedin.com/in/cristina-corral-fernández)
+[LinkedIn](https://www.linkedin.com/in/cristina-corral-fernández)
 
 ---
 
