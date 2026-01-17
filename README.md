@@ -1,23 +1,9 @@
-<!--
-**Cristina200317/Cristina200317** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 # 👋 Hola, soy Cristina
 
 Soy una apasionada **diseñadora web** enfocada en crear **páginas web**.  
 Estoy explorando el mundo del **diseño** y perfeccionando mis habilidades en **frontend** para transformar ideas en experiencias digitales.
 
-Actualmente estoy aprendiendo **HTML, CSS, JavaScript y React**, mientras diseño proyectos interactivos y responsivos. 
+Actualmente estoy aprendiendo y trabajando con **HTML, CSS, JavaScript, React, WordPress, GitHub, AWS y Bootstrap**, mientras diseño proyectos interactivos y responsivos. 
 
 Conéctate conmigo:  
 [LinkedIn](https://www.linkedin.com/in/cristina-corral-fernández)
@@ -26,6 +12,13 @@ Conéctate conmigo:
 
 ## 🛠 Herramientas y Tecnologías
 
-**Frontend:** HTML5 • CSS3 • JavaScript • React  
-**Extras:** Animaciones CSS • Responsive Design
+**Frontend & Diseño Web:**  
+HTML5 • CSS3 • JavaScript • React • Bootstrap • WordPress  
 
+**Control de versiones y despliegue:**  
+GitHub • AWS  
+
+**Otras habilidades importantes:**  
+- **Animaciones CSS:** efectos visuales y transiciones para interfaces atractivas.  
+- **Responsive Design:** diseño adaptable a cualquier tamaño de pantalla (móvil, tablet, desktop).  
+- **Prototipos interactivos:** creación de versiones de prueba de sitios o apps que permiten simular la navegación y funcionamiento antes de desarrollarlos.  
