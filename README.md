@@ -7,6 +7,7 @@ Actualmente estoy aprendiendo y trabajando con **HTML, CSS, JavaScript, React, W
 
 Conéctate conmigo:  
 [LinkedIn](https://www.linkedin.com/in/cristina-corral-fernández)
+
 https://criscf.vercel.app/
 
 ---
